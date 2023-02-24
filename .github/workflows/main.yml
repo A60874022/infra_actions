@@ -62,44 +62,7 @@ jobs:
         with:
           host: 51.250.76.241
           username: anton60874022
-          key:
-              b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABBh7Kl0oO
-              7M8cDUybjSPW5RAAAAEAAAAAEAAAGXAAAAB3NzaC1yc2EAAAADAQABAAABgQDRkJhoKnSb
-              OGea1Mi+VR7XDMLcsJRS/dL3K6ubb/NQJHeCu8q3RSBQNuLByiVQebgEKTkVrR6lJegIxl
-              zPRmz6srnpOOT9atoHgBh2HEvOYmIv1pwX707AyjXiwsdAmi52B3UFWQx8cc7yVKdwmk69
-              +kNvdYAXTpHoiXJPraOqjUJXvEwCVrWuCcAQRkI0nbNz/2gsLE9jADq8LSGeaNK7u3B7gH
-              Mw3GjapD1qjUn93v1qTJZFxr13JjKTszAXfMlF7E2i+YagOc4v1dI4xcEpEG/R8NuAKFqf
-              1Wy5rWJOFRU9sq7bDA3fXt2DP7ypi3iJLXMQrZdtnV/iwIKU+NQM8TkGQGlojKnC9YNHW6
-              hA34qegyr+YuK2bxkh2TdWSRVYk4SRIuGv4d4Zv6tpcbMqx8blhpl8eCSIYBds4aZrb0E6
-              EMTfngC4gQJ+tS60qTalMYqveZLN+RLTqGToaMsLSGyUIhhtHKYBgfsJa2PtiGJjKMlUK4
-              J1TUBC3oO2B1kAAAWQOKbX9+UqoCXCl7ppRRZ7zJ5hCirfuOiXmVCx45iCWQ8htx0KRarD
-              Cm/9jovqZVKnSLzNSx9o2ZJdAG4ZhulUNajv2PNREivwJTXLEw46F76AELA+BtJdkvKZCt
-              mZ207Q63Q0nk8Y/QagUT0W8OF97vXjWCxvhGFz+x4kHHTiBpLl0cPeIwrvB/kbX9vACP5v
-              D0InySLgextjWGoLVbtXyV//E3jSz5l4HjM+bRxelk07W5u4o6Ef9k6N6D2q5klbCfVzzL
-              uhVARQbvuvJLqh4fL+NShQiiKyhjcCUvqVScgURWBLsGmGLSSIJDsHBAecUm7Bga3blfbr
-              UCHoIy3M6N7cPpKWDdSScCchKQ3yNACFQVwU2SAY94cTY1zjkC2fxTyLdXyGzH+Rsy8I70
-              ukuVB00YCUjIvx9vzsXKJRO2amUtMr6LuGhsAkx5eEVL3sfd8NKDOSATqDzlv4VEY45VH9
-              cJNjOzNyGdRYDkPRz09Q1LRyq79lQMU62pD/L7fd1pL8cCupiL++ABxaa05ZAmzSOszNAS
-              nSFQfDaw6uPzB71UWakgTYBPT1tpdFQUCFATsBPKAiZ4rBhRnwY2W0f4tmkns3H31ttPBK
-              tvn9YB3xy7kmWuAsmqufl9Gk+AVMkINLoNIZq3aTSXUqK29Rc6D2d4gRkbu32TQIyXaPZK
-              Nv++aAPEfdp1qrPNlUNBGQVhyPRf7AIT688JzbeHsrwM2WNEs8So5k6XuD9jeZDQ7+BK3v
-              ZGNgdC8ncFxyePsmTnALTlcBnChAq384YdhuE5HLiX2g+/Mqn+A/1dltNH0D3U1Z4eZsS1
-              PUTX2tSLMKOiIZZMWOEDCuEHD10d8OCpWgM5E/DfKWhK9//uOr3D9an7awhg7tSn5+dybw
-              TJL4/E0389x4d4ELXS4URW0vNnkMeb+tTjH2pwrQCeYwDL0QKH4HeqzKE5TCapH1ALrPxk
-              1WyhjcrpvVFEPuLlv549OrvuSrHCot306/eW0TBU02IFPZweG2/SuHXhbXRxAlUXjOlZiW
-              gCyIKY9P+jCj0NMMpP3PasIFlvFTHsJGk94ISh+n4+MHgZgUF9iCqydePmUSYiJ/K5bVO3
-              nG/papPqJckzcHcGZEfN143tiDSsxpWN8UmY9xJ5m7NIBZBxVB6eMWnCRbwJtHCphoGZfc
-              9ompqszI/WMntqjdaR6aSrvdWoO17QMBlabkZwdOp19xoNsBQNuP8l7t+yzI8uT6RM7QwJ
-              m/Sk5HhEyTa2Kn6xdE0avOO90ZnH0ByyqTznO+8Ts9UJ3k2gETU760x9D7uuwmoZF4oZET
-              gsR5JKx8dY5c5f++M+muKFRBM4bRIKwq7EhslwXyjSg3HESOpQMlVe4ifZDV4q5cE5Nw7G
-              t8m6xdkari0wi0mjehOiMY8RMERDNwdtuqqPbQUDewnz7RfzwfPizMTSUH6YaEoEwv3zwV
-              68k7b6ySQ6nb+DmonZArw4vdMj2xW80Q8yVjyULj1aUlzUgGDZQjDLH9WV/CkXRLzWGxfn
-              DQm2pZQ/E0DZwJwnwzrNL+CHKx+1bmV1YnyW/M3yhFOrpGPjsyTQlWBpw1Y/0FrddFKbFL
-              IudetWNWI/PZiupmBK3MQCHh/N30gTD/zbhRpR6qWFcn7DA9G4LWHHWOgxV6JWPdlufiAv
-              NxoYW9x1HtoGIeSo78Fiks8EtofDDSf9FsrzXpSBzT4/tsIHQMaiFj/WmXpPsVqS735Mtp
-              oL3pKHKmXiWEqO5PUzLIDQzSRqt+Ih9LCtzpQlsEnaJ9iXGunNbgfoQuN1Z+ug4ROz+BiR
-              HWtDhYk+1eM8iWOSnN2Ef1KLqToPaTpVJj0yPW7+dP8NQ3cYYwMiza5eCc7lYE9ZpV7mWq
-              Kb2bmBTrxj/YQbocRpH/BiRdk7Q=
+          key: ${{ secrets.SSH_KEY }}
           passphrase: 60874022
           script: |
             sudo docker-compose stop
