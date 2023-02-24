@@ -62,7 +62,7 @@ jobs:
         with:
           host: 51.250.76.241
           username: anton60874022
-          key: -----BEGIN OPENSSH PRIVATE KEY-----
+          key:
               b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABBh7Kl0oO
               7M8cDUybjSPW5RAAAAEAAAAAEAAAGXAAAAB3NzaC1yc2EAAAADAQABAAABgQDRkJhoKnSb
               OGea1Mi+VR7XDMLcsJRS/dL3K6ubb/NQJHeCu8q3RSBQNuLByiVQebgEKTkVrR6lJegIxl
@@ -100,8 +100,6 @@ jobs:
               oL3pKHKmXiWEqO5PUzLIDQzSRqt+Ih9LCtzpQlsEnaJ9iXGunNbgfoQuN1Z+ug4ROz+BiR
               HWtDhYk+1eM8iWOSnN2Ef1KLqToPaTpVJj0yPW7+dP8NQ3cYYwMiza5eCc7lYE9ZpV7mWq
               Kb2bmBTrxj/YQbocRpH/BiRdk7Q=
-              -----END OPENSSH PRIVATE KEY-----
-
           passphrase: 60874022
           script: |
             sudo docker-compose stop
