@@ -60,7 +60,7 @@ jobs:
       - name: executing remote ssh commands to deploy
         uses: appleboy/ssh-action@master
         with:
-          host: 51.250.76.241
+          host: 158.160.60.139
           username: anton60874022
           key: ${{ secrets.SSH_KEY }}
           passphrase: 60874022
